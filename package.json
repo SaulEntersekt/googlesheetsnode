@@ -1,0 +1,11 @@
+{
+  "name": "googlesheetsapitest",
+  "version": "1.0.0",
+  "description": "testing google sheets api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
